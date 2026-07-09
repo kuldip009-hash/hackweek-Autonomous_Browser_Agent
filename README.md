@@ -30,6 +30,7 @@ The frontend dashboard communicates with the FastAPI backend server. When a task
 - Python 3.10 or higher
 - Node.js 18 or higher
 - Windows, macOS, or Linux operating system
+<img width="1901" height="899" alt="image" src="https://github.com/user-attachments/assets/de5e4417-55dc-4e97-b152-958c04f67661" />
 
 ## Installation & Setup
 
