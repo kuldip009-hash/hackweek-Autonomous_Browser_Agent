@@ -31,7 +31,7 @@ The frontend dashboard communicates with the FastAPI backend server. When a task
 - Node.js 18 or higher
 - Windows, macOS, or Linux operating system
  
-<img width="1901" height="899" alt="image" src="https://github.com/user-attachments/assets/de5e4417-55dc-4e97-b152-958c04f67661" /> <img width="1912" height="897" alt="image" src="https://github.com/user-attachments/assets/9a54728e-70ea-43f0-aa10-39a367c27887" />
+<img width="1901" height="899" alt="image" src="https://github.com/user-attachments/assets/de5e4417-55dc-4e97-b152-958c04f67661" />
 
 
 ## Installation & Setup
@@ -110,6 +110,9 @@ Once the setup is complete, you only need to run this single command:
 python -m app.main
 ```
 Then visit **http://127.0.0.1:8000** — that's it!
+
+<img width="1912" height="897" alt="image" src="https://github.com/user-attachments/assets/ec278798-eb23-48fc-a113-ae0fc20876ca" />
+
 
 ## Troubleshooting
 
